@@ -1,0 +1,8 @@
+{
+	"author": "{{{author}}} <{{{email}}}>",
+	"name": "{{{project-name}}}",
+	"description": "{{{description}}}",
+	"version": "{{{version}}}",
+	"license": "{{{license}}}",
+	"readmeFilename": "README.md"
+}

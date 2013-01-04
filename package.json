@@ -1,0 +1,17 @@
+{
+  "name": "anvil.demo.scaffolds",
+  "version": "0.1.0",
+  "description": "scaffolds for the quick start",
+  "main": "lib/anvil.demo.scaffolds.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/anviljs/anvil.demo.scaffolds"
+  },
+  "keywords": [
+    "anvil",
+    "scaffold"
+  ],
+  "author": "Alex Robson",
+  "license": "MIT, GPL",
+  "readmeFilename": "README.md"
+}

@@ -9,9 +9,16 @@
   },
   "keywords": [
     "anvil",
-    "scaffold"
+    "scaffold",
+    "demo"
   ],
   "author": "Alex Robson",
-  "license": "MIT, GPL",
-  "readmeFilename": "README.md"
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "handlebars": "~1.0"
+  },
+  "scripts": {
+    "install": "npm link npm --local"
+  }
 }

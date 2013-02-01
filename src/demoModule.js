@@ -15,7 +15,6 @@ module.exports = function( _, anvil ) {
 			done();
 		},
 		prompt: [
-			// this is a simple template to use when creating prompts
 			{
 				name: "module-name",
 				description: "module name",

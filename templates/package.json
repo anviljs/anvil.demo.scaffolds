@@ -1,5 +1,5 @@
 {
-	"author": "{{{author}}} <{{{email}}}>",
+	"author": "{{{author}}}",
 	"name": "{{{project-name}}}",
 	"description": "{{{description}}}",
 	"version": "{{{version}}}",

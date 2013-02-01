@@ -23,7 +23,7 @@ module.exports = function( _, anvil ) {
 			}
 		],
 		output: {
-			"spec/{{{fileName module-name}}}-spec.js": anvil.scaffold.file( root + "/templates/spec.js" )
+			"spec/{{{fileName module-name}}}.spec.js": anvil.scaffold.file( root + "/templates/spec.js" )
 		},
 		render: function( options ) {
 			var template = handlebars.compile( options.template );

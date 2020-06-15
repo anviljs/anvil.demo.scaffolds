@@ -16,7 +16,7 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "dependencies": {
-    "handlebars": "~1.0"
+    "handlebars": "~4.7"
   },
   "scripts": {
     "install": "npm link npm --local"
